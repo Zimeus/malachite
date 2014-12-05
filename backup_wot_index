@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+<title>Full Metal Gear community</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <nav id="nav">
+    	<ul class="container">
+	    	<li><a class="btn" href="#top">Главная</a></li>
+		    <li><a class="btn" href="#work">Вступить</a></li>
+		    <li><a class="btn" href="#portfolio">Общение</a></li>
+		    <li><a class="btn" href="#contact">Связаться</a></li>
+	    </ul>
+    </nav>
+	<div id="banner">
+		<h2>Приветствуем, Друг: Ты находишься на сайте играков клана Full Metal Gear. 
+		Cайт поможет тебе со вступлением и даст некоторую информацию о нас.</h2>
+	    <p>На некоторых устройствах возможно некорректное отображение</p>
+	</div>
+</body>
+</html>
